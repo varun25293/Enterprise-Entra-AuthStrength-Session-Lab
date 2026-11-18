@@ -1,6 +1,3 @@
-cd "C:\Users\Administrator\Desktop\Enterprise-Entra-AuthStrength-Session-Lab"
-
-@'
 # Microsoft Entra ID Phishing-Resistant MFA, Authentication Strengths & Session Governance Lab
 
 Enterprise identity defense, phishing-resistant authentication governance, and session lifetime enforcement lab built on **Microsoft Entra ID** and **Windows 11 Pro** (`TESTUSER-1`) within the `ApexModernWork.onmicrosoft.com` tenant.
