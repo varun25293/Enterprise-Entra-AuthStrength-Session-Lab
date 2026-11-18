@@ -48,6 +48,3 @@ This lab hardens cloud authentication and browser session lifetimes beyond basic
 * **#06 Sign-In Log — Authentication Strength & MFA Details:** Verified `Authentication policies applied: Conditional Access, Authentication Strength(s)` satisfying `AS_PhishResistant_Pilot` (`Succeeded: Yes`).
 
 ![Entra Sign-In Log Authentication Details](03-Enforcement-And-SignIn-Logs/06-entra-signin-log-session-lifetime.png)
-'@ | Set-Content -Path .\README.md -Encoding UTF8
-
-Get-ChildItem -Recurse -File | Resolve-Path -Relative
